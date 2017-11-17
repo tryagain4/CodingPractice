@@ -1,1 +1,1 @@
-"# CodingPractice" 
+This is used for coding practice
